@@ -43,3 +43,11 @@ a, a:hover {
 .button-width{
     display: flex;    
 }
+
+.section-subscribe-title{
+    font-size: 32px;
+    color: var(--color-font-primary);
+    text-align: center;
+    margin-top: 38px;
+    margin-bottom: 17px;
+}
